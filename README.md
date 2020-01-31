@@ -11,7 +11,7 @@ To run the simulation
 ## Assignment3 
 The folder Assignment3 contains the code for 2nd Assignment. 
 To run the simulation
-- cd Assignment2 
+- cd Assignment3
 - python gradientDescent.py (This will run the simulation without hidden to output weights)
 - python gradientDescent_bonus.py (This will run the simulation with hidden to output weights)
 
